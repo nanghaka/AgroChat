@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_id": "agrochat-1160",
+    "project_number": "967263309088",
+    "name": "AgroChat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967263309088:android:1cbb1ede12a28a53",
+        "client_id": "android:com.ilicit.agrochat",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.ilicit.agrochat",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967263309088-shq3nqbvb7eg78u4mao2d97c0964mfd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilicit.agrochat",
+            "certificate_hash": "D32452B39455C808924B71653A974422D92581B7"
+          }
+        },
+        {
+          "client_id": "967263309088-l1juk0abvtb4a4jl84qse86q2lvbj2dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75178258-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
